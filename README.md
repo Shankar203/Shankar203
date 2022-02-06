@@ -43,13 +43,13 @@
 <code><img title="Node.js" height="20" src="https://camo.githubusercontent.com/342d0b4d47c3c88c7542ddeb7bc8f7e4b6dbf8b496ca4f4f6c66a11659bbc180/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f6170706c652d746f7563682d69636f6e2e706e67"></code>
 <code><img title="JWTauth" height="20" src="https://community.appian.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-50/logo.png"></code>
 <code><img title="PassportJS" height="20" src="https://avatars.githubusercontent.com/u/1160530?s=280&v=4"></code>
-<code><img title="mongoDB" height="20" src="https://symbols.getvecta.com/stencil_88/104_mongodb-icon.521e120d69.svg"></code>
+<code><img title="mongoDB" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"></code>
 <code><img title="MySQL" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 <code><img title="PostgreseSQL" height="20" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-226047.png"></code>
 
 - **DataScience:** &nbsp;
 <code><img title="Python" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-<code><img title="TensorFlow" height="20" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg"></code>
+<code><img title="TensorFlow" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
 <code><img title="Keras" height="20" src="https://camo.githubusercontent.com/8a0a3a81673966b6ac2afc93dd7b30097e4ebd6326da26f50ec45b0c623ec204/68747470733a2f2f696d672e737461636b73686172652e696f2f736572766963652f353630312f6b657261732e706e67"></code>
 <code><img title="Pandas" height="20" src="https://pandas.pydata.org/static/img/favicon_white.ico"></code>
 <code><img title="matplotlib" height="20" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></code>
