@@ -1,102 +1,75 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheProPardox.TheProParadox">
-
-<h1 align="center">
-  <!--   <a href="https://git.io/typing-svg"> -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gowri+Shankar.;Great+to+see+you+here!&center=true&size=30">
-  <!--   </a> -->
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/gowri-shankar-p-b4b489203" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/gowrishankar.penugonda.75" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram</a></code>
-  <code><a href="https://www.facebook.com/gowrishankar.penugonda.75" title="Facebook Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png"> Facebook</a></code>
-</h5>
-<br>
-<p align="center">
-  <b>Hi, I'm Gowri Shankar,a Sophomore at IITG!!!</b>
-  <br>
-  <!--   <br> -->
-  🔬 I'm from BTech-BSBE department
-  <br>
-  <!--   🎓 I graduated from Modern Delhi Public School,Faridabad
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently stuck in exams and stuff!!
-  <br> -->
-  📫 How to reach me: <a href="mailto: gowrishankarirwog@gmail.com">gowrishankarirwog@gmail.com</a>
-</p>
-
-<hr>
-<h2>🛠 Tech Stack:</h2>
-<br>
-
-- **FrontEnd:** &nbsp;
-<code><img title="HTML5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></code>
-<code><img title="CSS" height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"></code>
-<code><img title="Bootstrap" height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
-<code><img title="Tailwind" height="20" src="https://miro.medium.com/max/632/1*KTAstxDm8yEG17u94avrXw.png"></code>
-<code><img title="JavaScript" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-<!--     <code><img title="Javascript" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code> -->
-- **BackEnd:** &nbsp;
-<code><img title="Node.js" height="20" src="https://camo.githubusercontent.com/342d0b4d47c3c88c7542ddeb7bc8f7e4b6dbf8b496ca4f4f6c66a11659bbc180/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f6170706c652d746f7563682d69636f6e2e706e67"></code>
-<code><img title="JWTauth" height="20" src="https://community.appian.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-50/logo.png"></code>
-<code><img title="PassportJS" height="20" src="https://avatars.githubusercontent.com/u/1160530?s=280&v=4"></code>
-<code><img title="mongoDB" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"></code>
-<code><img title="MySQL" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-<code><img title="PostgreseSQL" height="20" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-226047.png"></code>
-
-- **DataScience:** &nbsp;
-<code><img title="Python" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-<code><img title="TensorFlow" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
-<code><img title="Keras" height="20" src="https://camo.githubusercontent.com/8a0a3a81673966b6ac2afc93dd7b30097e4ebd6326da26f50ec45b0c623ec204/68747470733a2f2f696d672e737461636b73686172652e696f2f736572766963652f353630312f6b657261732e706e67"></code>
-<code><img title="Pandas" height="20" src="https://pandas.pydata.org/static/img/favicon_white.ico"></code>
-<code><img title="matplotlib" height="20" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></code>
-<code><img title="OpenCV" height="20" src="https://i.stack.imgur.com/RtNrs.png"></code>
-<code><img title="NumPy" height="20" src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png"></code>
-
-
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-<div align=center>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width=396
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar203&theme=react&border=61dafb&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width=396
-      src="https://github-readme-stats.vercel.app/api?username=Shankar203&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-<br><br><br><br><br><br><br><br><br>
-
-<div align=center>
-  <!--     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar203&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a> -->
-</div>
-<br>
-<img
-  src="https://activity-graph.herokuapp.com/graph?username=Shankar203&theme=react-dark&bg_color=20232a&hide_border=true"
-  width="100%" />
-</p>
-
-<hr>
-
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-  <a href="https://github.com/Shankar203?tab=repositories" title="Show Repositories">
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/TheProParadox/Ascii-Rickroll" title="Ascii-Rickroll"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Ascii-Rickroll&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <h1>Hi there, I'm Gowri Shankar Penugonda 👋</h1>
+  <h3>Bio-Engineering Student at IIT Guwahati | Full-Stack & Data Science Enthusiast</h3>
   
-  <a align="right" href="https://github.com/TheProParadox/DinoGameML" title="DinoGameML"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=DinoGameML&theme=react&border_color=61dafb&border_radius=10"></a>
+  <p>
+    <a href="https://www.linkedin.com/in/gowri-shankar-penugonda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:gowrishankarirwog@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Shankar203"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 </div>
-<br/><br/><br/><br/><br/><br/> -->
 
-</h4>
+<br/>
+
+## 👨‍🎓 About Me
+
+I am a passionate **Sophomore pursuing a BTech in Biosciences and Bioengineering (BSBE)** at the **Indian Institute of Technology (IIT), Guwahati**. With a strong foundation in both software development and data science, I enjoy building impactful projects and solving complex technical problems.
+
+- 🔬 Currently focused on expanding my knowledge in Full-Stack Web Development, Machine Learning, and Computer Vision.
+- 💻 Constantly learning and building side projects to refine my technical skills.
+- 💬 Ask me about: **Python, JavaScript, Node.js, and Machine Learning.**
+- 📫 Reach out to me for collaborations, opportunities, or just a quick chat!
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+
+### 📊 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the key projects I have built. You can find more on my profile.
+
+- **[Microsoft Engage Face Recognition](https://github.com/Shankar203/Microsoft-Engage-FaceRecognition)**: A three-factor authentication system that adds a facial biometric scan as an extra layer of security.
+- **[Torrent Client](https://github.com/Shankar203/Torrent-Client)**: A custom implementation of a torrent client built from scratch.
+- **[License Plate Detection](https://github.com/Shankar203/licence_plate_detection)**: An automated license plate recognition system leveraging computer vision.
+- **[Insta Clone](https://github.com/Shankar203/insta-clone)**: A full-stack web application replicating the core features of Instagram.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Shankar203">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shankar203&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Shankar203">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar203&theme=react&border_color=61dafb&hide_border=true" width="48%" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=Shankar203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</div>
