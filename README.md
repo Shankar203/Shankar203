@@ -71,5 +71,5 @@ Here are some of the key projects I have built. You can find more on my profile.
   
   <br/><br/>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shankar203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankar203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </div>
